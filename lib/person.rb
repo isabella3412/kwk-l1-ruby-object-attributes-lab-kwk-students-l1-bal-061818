@@ -1,5 +1,5 @@
 # person.rb
-class Person 
+class Person
   def name=(name)
     @name = name
   end
